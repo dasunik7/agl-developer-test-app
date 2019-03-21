@@ -1,0 +1,7 @@
+[0321/205007.434:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0321/210359.270:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0321/210359.933:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0321/210359.933:ERROR:exception_snapshot_win.cc(88)] thread ID 18216 not found in process
+[0321/211200.816:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\thara\AppData\Local\Temp\karma-16829642\Crashpad: The system cannot find the path specified. (0x3)
+[0321/211200.902:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0321/211200.918:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\thara\AppData\Local\Temp\karma-16829642\Crashpad: The system cannot find the path specified. (0x3)
